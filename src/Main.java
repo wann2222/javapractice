@@ -12,5 +12,6 @@ public class Main {
         System.out.println(x + "," + y);
        int z;
        int k;
+       int j;
 }
 }
