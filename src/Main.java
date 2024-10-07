@@ -10,6 +10,7 @@ public class Main {
         x = y;
         y = temp;
         System.out.println(x + "," + y);
+       int x;
 
 }
 }
