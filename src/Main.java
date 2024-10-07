@@ -3,15 +3,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        int x = 3;
-        int y = 6;
-        System.out.println(x + "," + y);
-        int temp = x;
-        x = y;
-        y = temp;
-        System.out.println(x + "," + y);
-       int z;
-       int k;
-       int j;
+        int a = 10;
+        String s = String.valueOf(a);
+        System.out.println(s);
+        int b = Integer.parseInt(s);
+        System.out.println(b);
 }
 }
